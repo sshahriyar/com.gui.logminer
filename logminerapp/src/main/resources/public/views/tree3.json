@@ -1,0 +1,16 @@
+{"fEvent":"start", 
+"fBranches":[
+	{"fEvent":1,
+		"fBranches":[{"fEvent":5},{"fEvent":6}]
+	 },
+	 {"fEvent":2,
+	  "fBranches":[{"fEvent":5},{"fEvent":6}]
+	  },
+	  {"fEvent":3,
+	   "fBranches":[{"fEvent":5},{"fEvent":6}]
+	   },
+	   {"fEvent":4,
+	    "fBranches":[{"fEvent":5},  {"fEvent":6}]
+	    }
+    ]
+}
